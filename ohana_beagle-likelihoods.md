@@ -2,7 +2,7 @@
 
 Github: https://github.com/jade-cheng/ohana
 
-Paper: http://biorxiv.org/content/early/2017/03/06/114488
+Paper: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx098
 
 ## QPAS
 
