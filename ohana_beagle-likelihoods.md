@@ -1,3 +1,3 @@
-###Convert beagle .beagle.gz from ANGSD to .lgm format
+### Convert beagle .beagle.gz from ANGSD to .lgm format
 
-ohana-qpas
+`ohana-qpas`
