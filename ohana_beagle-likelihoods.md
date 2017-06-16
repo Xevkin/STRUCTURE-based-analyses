@@ -1,6 +1,6 @@
 # Ohana
 
-github: https://github.com/jade-cheng/ohana
+Github: https://github.com/jade-cheng/ohana
 
 Paper: http://biorxiv.org/content/early/2017/03/06/114488
 
