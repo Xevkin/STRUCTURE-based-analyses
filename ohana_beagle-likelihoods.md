@@ -6,4 +6,4 @@ Convert beagle .beagle.gz from ANGSD to .lgm format
 
 `? \cat ./sample.beagle.gz | ohana-convert bgl2lgm > ./sample.lgm`
 
-`ohana-qpas -`
+`ohana-qpas ./sample.lgm -k 2 -qo ./sample.qmatrix -fo ./sample.fmatrix -mi 5 -nt 12`
