@@ -10,6 +10,10 @@ Convert beagle .beagle.gz from ANGSD to .lgm format
 
 `ohana-convert bgl2lgm sample.beagle sample.lgm`
 
-`zcat sample.beagle.gz | ohana-convert bgl2lgm > sample.lgm`
+`gunzip sample.beagle.gz`
+
+#I found ohana-convert to run much faster on unzipped files rather than zcat pipping 
+
+`ohana-convert bgl2lgm sample.beagle sample.lgm`
 
 `ohana-qpas sample.lgm -k 2 -qo sample.qmatrix -fo sample.fmatrix -mi 5 -nt 12`
