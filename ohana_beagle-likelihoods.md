@@ -5,8 +5,9 @@ Github: https://github.com/jade-cheng/ohana
 Paper: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx098
 
 ## QPAS
-#on pg2
-export LD_LIBRARY_PATH=/home/admin1/ohana/opt/OpenBLAS/lib:$LD_LIBRARY_PATH
+#on pg2 running:
+
+`export LD_LIBRARY_PATH=/home/admin1/ohana/opt/OpenBLAS/lib:$LD_LIBRARY_PATH`
 
 Convert beagle .beagle.gz from ANGSD to .lgm format
 
